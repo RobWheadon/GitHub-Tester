@@ -1,0 +1,3 @@
+Hello!
+This is a test file to be published to GitHub
+Created 16 December 2017
