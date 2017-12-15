@@ -3,3 +3,5 @@ This is a test file to be published to GitHub
 Created 16 December 2017
 
 Edited 16 Dec 2017 at 11:52 AM - next step is to download my changes to a separate folder.
+
+Some more edits after logging out of Windows and in again.
